@@ -1,4 +1,3 @@
 <?php
-echo "hilmi	";
-echo "ger";
-echo "dsdd";
+
+echo "test";
